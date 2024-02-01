@@ -88,8 +88,3 @@ yarn preview
   }
 }
 ```
-
-## 有关学生回忆大厅L2D文件获取
-
-1. 自己去解包（[教程1](https://www.bilibili.com/read/cv15934670/)、[教程2](https://www.bilibili.com/read/cv18073492/)）
-2. 去[基沃托斯古书馆](https://kivo.wiki/)中的“角色图鉴”——“切换到鉴赏模式”——“回忆大厅”当中自行获取

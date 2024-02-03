@@ -20,8 +20,8 @@ if ('serviceWorker' in navigator) {
   const updateSW = registerSW({
     onNeedRefresh() {
       Modal.open({
-        title: '通知',
-        content: '老师，站点已更新，刷新即可访问最新内容！',
+        title: 'Notice',
+        content: 'Sensei, the site has been updated, refresh to access the latest content!',
         onOk: () => {
           updateSW(true)
         }
@@ -53,24 +53,19 @@ setInterval(() => {
 import * as PIXI from 'pixi.js'
 import { sound } from '@pixi/sound'
 
-// 这里是学生的l2d载入位置，想要修改自己喜欢的学生可以改这里
 import hina_swimsuit from '/l2d/hina_swimsuit/CH0063_home.skel?url'
 import hina_bgm from '/l2d/hina_swimsuit/Theme_21.mp3'
 import aris from '/l2d/aris/Aris_home.skel?url'
 import aris_bgm from '/l2d/aris/Someday_-sometime.mp3'
 import mika from '/l2d/mika/CH0069_home.skel?url'
 import mika_bgm from '/l2d/mika/Daily-Routine-247.mp3'
-/*
- * students 是学生l2d的位置
- * l2dBGM 是学生背景音乐的位置
- * */
+
 const students = [hina_swimsuit, aris, mika]
 const l2dBGM = [hina_bgm, aris_bgm, mika_bgm]
-/*——————————————————————————————————————————————————*/
+
 export let studentsL2D = []
 export let bgmName = []
 
-// 加载大厅L2D文件
 ;(async function () {
   for (let i of students) {
     studentsL2D.push(await PIXI.Assets.load(i))

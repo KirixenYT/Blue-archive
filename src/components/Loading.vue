@@ -15,11 +15,10 @@ document.oncontextmenu = function () {
   return false
 }
 const options = {
-  // 动画时长
+  // Animation duration
   duration: 2000,
-  // 动画前后保持的状态
   fill: 'forwards',
-  // 动画缓动类型
+  // Animation easing type
   easing: 'ease-in-out'
 }
 let a = 0

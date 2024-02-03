@@ -30,36 +30,36 @@
   "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
   "dock": [
     {
-      "name": "Eat small fish together",
-      "href": "https://gitee.com/sf-yuzifu/eat-fish-together",
+      "name": "Music bot",
+      "href": "https://github.com/KirixenYT/music-bot",
       "imgSrc": "/img/fish.png"
     },
     {
-      "name": "Convertor",
-      "href": "https://gitee.com/sf-yuzifu/bcm_convertor",
+      "name": "ChatGPT AI Bot",
+      "href": "https://github.com/KirixenYT/chatgpt-in-discord",
       "imgSrc": "/img/convertor.png"
     },
     {
-      "name": "Waddle editor",
-      "href": "https://waddle.coco-central.cn/",
+      "name": "Portfolio",
+      "href": "https://github.com/KirixenYT/Portfolio",
       "imgSrc": "/img/waddle2.png"
     },
     {
-      "name": "PICKDUCK",
-      "href": "https://shequ.pgaot.com/",
+      "name": "Bot",
+      "href": "https://github.com/KirixenYT/bot",
       "imgSrc": "/img/pickduck.png"
     },
     {
-      "name": "Boxy editor",
-      "href": "https://boxy.coco-central.cn/",
+      "name": "Hisaki",
+      "href": "https://github.com/KirixenYT/hisaki",
       "imgSrc": "/img/boxy.png"
     }
   ],
   "contact": [
     {
-      "name": "QQ",
-      "href": "https://wpa.qq.com/",
-      "iconfont": "icon-qq"
+      "name": "Instagram",
+      "href": "https://www.instagram.com/kirixen",
+      "iconfont": "icon-instagram"
     },
     {
       "name": "Discord",

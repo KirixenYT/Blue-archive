@@ -34,7 +34,7 @@ yarn build
 yarn preview
 ```
 
-> You can use static hosting platforms such as Vercel and Netlify to import and automatically deploy them with one click.
+> You can use hosting sites such as Vercel and Netlify to deploy the project.
 
 ## Edit
 

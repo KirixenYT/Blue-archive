@@ -62,9 +62,9 @@
       "iconfont": "icon-qq"
     },
     {
-      "name": "Gitee",
-      "href": "https://gitee.com/sf-yuzifu",
-      "iconfont": "icon-gitee"
+      "name": "Discord",
+      "href": "https://dsc.gg/kirixenyt",
+      "iconfont": "icon-discord"
     },
     {
       "name": "Github",
@@ -72,9 +72,9 @@
       "iconfont": "icon-github"
     },
     {
-      "name": "BiliBili",
-      "href": "https://space.bilibili.com/",
-      "iconfont": "icon-bilibili"
+      "name": "YouTube",
+      "href": "https://www.youtube.com/@kirixenyt",
+      "iconfont": "icon-youtube"
     }
   ],
   "task": {
